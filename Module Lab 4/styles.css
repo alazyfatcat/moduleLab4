@@ -8,7 +8,7 @@ body {
   img {
       max-width: 100%;
       display: block;
-      float: left;
+      float: left; 
   }
   
   .logo {
@@ -22,9 +22,9 @@ body {
     margin: 0 auto;
     padding: 0 20px;
     max-width: 980px;
-    display: grid;
+    display: grid;  
     grid-template-columns: 3fr 1fr;
-    grid-gap: 20px;
+    grid-gap: 20px; 
   }
   
   nav {
@@ -61,8 +61,8 @@ body {
   }
 
   aside img {
-    width: 100px;
-    height: 100px;
+    width: 50%;
+    height: 50%;
   }
 
   article{
